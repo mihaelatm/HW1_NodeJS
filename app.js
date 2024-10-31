@@ -1,5 +1,7 @@
-const { logMessage } = require("./logger");
+const logMessage = require("./logger.js");
 
-logMessage("First log entry");
-logMessage("Second log entry");
-logMessage("Third log entry");
+logMessage("First message");
+logMessage("Second message");
+logMessage("Third message");
+logMessage("Fourth message");
+logMessage("Fifth message");
